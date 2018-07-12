@@ -1,0 +1,9 @@
+# vscode-files
+.vscode/
+
+# __pycache__
+__pycache__/
+*/__pycache__/
+
+# bin-folder for testing purposes
+bin/
